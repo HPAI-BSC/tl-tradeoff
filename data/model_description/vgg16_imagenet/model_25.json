@@ -1,0 +1,1 @@
+{"description": "Classical VGG16 architecture trained on imagenet (ILSVRC2012) http://www.image-net.org/challenges/LSVRC/2012/", "input_reshape": [224, 224], "input_tensor": "input_2:0", "target_tensors": ["block5_conv3/Relu:0", "fc1/Relu:0", "fc2/Relu:0"]}
