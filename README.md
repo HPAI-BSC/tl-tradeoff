@@ -78,3 +78,7 @@ python3 src/fine_tuning.py [-h] [--use-crops] [--model-selection]
 Using the command `mlflow ui` in the directory in which the MLFlow artifacts were stored in will open a graphical UI
 in which the results will be shown.
 Results will be categorized in two MLFlow experiments: `Feature extraction` and `Fine-tuning`, depending on the method that is being used.
+
+## License
+
+GNU General Public License v3.0
